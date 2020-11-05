@@ -1,7 +1,7 @@
 ## BLACKEYE v1.5.1
 ### UPDATES :
 ##### Updated the port forwarding support to ngrok2.0
-####  From @An0nUD4Y (https://github.com/An0nUD4Y/blackeye)
+####  From @An0nUD4Y and @x3rz
 
 
 ## BLACKEYE v1.5
