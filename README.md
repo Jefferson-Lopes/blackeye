@@ -1,7 +1,6 @@
 ## BLACKEYE v1.5.1
 ### UPDATES :
 ##### Updated the port forwarding support to ngrok2.0
-####  FOR ANY SUGGESTION CONTACT :@suljot_gjoka or x3rz.r on Instagram!
 ####  From @An0nUD4Y (https://github.com/An0nUD4Y/blackeye)
 
 
@@ -9,7 +8,6 @@
 ### UPDATES :
 ##### Added 10 new websites from the Pro version!
 ##### The tool is completely free now
-####  FOR ANY SUGGESTION CONTACT :@suljot_gjoka on Instagram!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
